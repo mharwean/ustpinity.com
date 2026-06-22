@@ -1,0 +1,6 @@
+{
+  "name": "USTP Campus Connect",
+  "description": "An interactive digital hub for the University of Science and Technology of Southern Philippines. Features student-verified networking, departmental college portals, an innovation board, marketplace, alumni mentorship, and campus events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
